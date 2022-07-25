@@ -3,6 +3,7 @@ import pandas as pd
 
 
 st.write("# Power Market")
+st.write("Testing")
 
 # fig = go.Figure()
 # fig.add_trace(go.Scatter(x=df_mowi_dev.index, y=df_mowi_dev.iloc[:, 0], name="Mowi", line_color="blue"))
